@@ -17,6 +17,7 @@
 		FAA3F30E2927A79C00A9A772 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA3F30D2927A79C00A9A772 /* TrailingIconLabelStyle.swift */; };
 		FAA3F3102927AA9A00A9A772 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA3F30F2927AA9A00A9A772 /* ScrumsView.swift */; };
 		FAA3F3122927B63F00A9A772 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA3F3112927B63F00A9A772 /* DetailView.swift */; };
+		FAA3F3142927C97E00A9A772 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA3F3132927C97E00A9A772 /* DetailEditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		FAA3F30D2927A79C00A9A772 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		FAA3F30F2927AA9A00A9A772 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		FAA3F3112927B63F00A9A772 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		FAA3F3132927C97E00A9A772 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				FAA3F30D2927A79C00A9A772 /* TrailingIconLabelStyle.swift */,
 				FAA3F2FA29276E6900A9A772 /* Assets.xcassets */,
 				FAA3F2FC29276E6900A9A772 /* Preview Content */,
+				FAA3F3132927C97E00A9A772 /* DetailEditView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			files = (
 				FAA3F308292785FF00A9A772 /* DailyScrum.swift in Sources */,
 				FAA3F3122927B63F00A9A772 /* DetailView.swift in Sources */,
+				FAA3F3142927C97E00A9A772 /* DetailEditView.swift in Sources */,
 				FAA3F30E2927A79C00A9A772 /* TrailingIconLabelStyle.swift in Sources */,
 				FAA3F3062927855F00A9A772 /* Theme.swift in Sources */,
 				FAA3F3102927AA9A00A9A772 /* ScrumsView.swift in Sources */,
